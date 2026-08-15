@@ -1,0 +1,6 @@
+stage,users,cumulative_conversion,stage_conversion,dropoff_rate
+Session Start,267116,100,,
+View Item,60354,22.59,22.59,77.41
+Add to Cart,12435,4.66,20.6,79.4
+Begin Checkout,9614,3.6,77.31,22.69
+Purchase,4389,1.64,45.65,54.35
