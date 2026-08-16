@@ -11,9 +11,8 @@ In this study, users were tracked through five stages of an e-commerce shopping 
 <br>
 
 <p align="center">
-**Session Start → View Item → Add to Cart → Begin Checkout → Purchase**
+<strong>Session Start</strong> → <strong>View Item</strong> → <strong>Add to Cart</strong> → <strong>Begin Checkout</strong> → <strong>Purchase</strong>
 </p>
-<br>
 <br>
 
 **Drop-Off Rate** measures the percentage of users **who do not progress** to the next funnel stage.
