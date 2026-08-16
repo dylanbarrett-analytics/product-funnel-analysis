@@ -111,11 +111,11 @@ This created one row per user with Boolean indicators showing whether or not tha
 
 > For example, one user's journey may be:
 <p align="center">
-  <strong>Session Start: 1</strong> →
-  <strong>View Item: 1</strong> →
-  <strong>Add to Cart: 0</strong> →
-  <strong>Begin Checkout: 0</strong> →
-  <strong>Purchase: 0</strong>
+  <strong>Session Start = 1</strong> →
+  <strong>View Item = 1</strong> →
+  <strong>Add to Cart = 0</strong> →
+  <strong>Begin Checkout = 0</strong> →
+  <strong>Purchase = 0</strong>
 </p>
 
 > This means that the user reached both Session Start and View Item, but then "dropped off" before reaching Add to Cart (and the subsequent stages).
