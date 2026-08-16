@@ -110,11 +110,13 @@ Since the original dataset was at **event grain**, users could appear across man
 This created one row per user with Boolean indicators showing whether or not that user reached each of the five funnel stages (1 = stage reached, 0 = stage not reached).
 
 > For example, one user's journey may be:
-- Session Start: 1
-- View Item: 1
-- Add to Cart: 0
-- Begin Checkout: 0
-- Purchase: 0
+<p align="center">
+  <strong>Session Start: 1</strong> →
+  <strong>View Item: 1</strong> →
+  <strong>Add to Cart: 0</strong> →
+  <strong>Begin Checkout: 0</strong> →
+  <strong>Purchase: 0</strong>
+</p>
 
 > This means that the user reached both Session Start and View Item, but then "dropped off" before reaching Add to Cart (and the subsequent stages).
 
