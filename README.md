@@ -7,6 +7,8 @@
 A **product funnel** tracks how users progress through a sequence of events leading to a purchase (or conversion). Analyzing this progression can reveal where users are most likely to exit the journey, or **drop off**.
 
 In this study, users were tracked through five stages of an e-commerce shopping funnel:
+<br>
+<br>
 
 > **Session Start → View Item → Add to Cart → Begin Checkout → Purchase**
 <br>
