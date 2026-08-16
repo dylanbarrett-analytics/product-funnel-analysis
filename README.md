@@ -100,10 +100,14 @@ Since the dataset's `user_id` field was unavailable, `user_pseudo_id` was used a
 ## **Step 2: Build the Shopping Funnel**
 
 There were 17 available event types, but only five were selected to best represent the shopping funnel:
+<br>
+<br>
 
 <p align="center">
 <strong>Session Start</strong> → <strong>View Item</strong> → <strong>Add to Cart</strong> → <strong>Begin Checkout</strong> → <strong>Purchase</strong>
 </p>
+<br>
+<br>
 
 Since the original dataset was at **event grain**, users could appear across many rows. Therefore, the data was transformed to **user grain**.
 
