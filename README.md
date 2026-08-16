@@ -10,7 +10,9 @@ In this study, users were tracked through five stages of an e-commerce shopping 
 <br>
 <br>
 
-> **Session Start → View Item → Add to Cart → Begin Checkout → Purchase**
+<p align="center">
+**Session Start → View Item → Add to Cart → Begin Checkout → Purchase**
+</p>
 <br>
 <br>
 
