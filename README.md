@@ -70,11 +70,11 @@ Created user-level flags for each stage of the shopping funnel
 Calculated user counts and drop-off rates across the funnel stages
 - [`04_transition_1.sql`](https://github.com/dylanbarrett-analytics/product-funnel-analysis/blob/main/SQL/04_transition_1.sql)
 Analyzed Session Start → View Item drop-off across user and session characteristics
-- [`05_transition_2.sql`](https://github.com/dylanbarrett-analytics/product-funnel-analysis/blob/main/SQL/04_transition_2.sql)
+- [`05_transition_2.sql`](https://github.com/dylanbarrett-analytics/product-funnel-analysis/blob/main/SQL/05_transition_2.sql)
 Analyzed View Item → Add to Cart drop-off across user and session characteristics
-- [`06_transition_3.sql`](https://github.com/dylanbarrett-analytics/product-funnel-analysis/blob/main/SQL/04_transition_3.sql)
+- [`06_transition_3.sql`](https://github.com/dylanbarrett-analytics/product-funnel-analysis/blob/main/SQL/06_transition_3.sql)
 Analyzed Add to Cart → Begin Checkout drop-off across user and session characteristics
-- [`07_transition_4.sql`](https://github.com/dylanbarrett-analytics/product-funnel-analysis/blob/main/SQL/04_transition_4.sql)
+- [`07_transition_4.sql`](https://github.com/dylanbarrett-analytics/product-funnel-analysis/blob/main/SQL/07_transition_4.sql)
 Analyzed Begin Checkout → Purchase drop-off across user and session characteristics
 
 ### **Documentation**
