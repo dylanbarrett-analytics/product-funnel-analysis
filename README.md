@@ -8,7 +8,7 @@ A **product funnel** tracks how users progress through a sequence of events lead
 
 In this study, users were tracked through five stages of an e-commerce shopping funnel:
 
-**Session Start → View Item → Add to Cart → Begin Checkout → Purchase**
+> **Session Start → View Item → Add to Cart → Begin Checkout → Purchase**
 <br>
 <br>
 
