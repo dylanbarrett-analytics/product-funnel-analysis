@@ -107,7 +107,6 @@ There were 17 available event types, but only five were selected to best represe
 <strong>Session Start</strong> → <strong>View Item</strong> → <strong>Add to Cart</strong> → <strong>Begin Checkout</strong> → <strong>Purchase</strong>
 </p>
 <br>
-<br>
 
 Since the original dataset was at **event grain**, users could appear across many rows. Therefore, the data was transformed to **user grain**.
 
