@@ -186,7 +186,7 @@ Perhaps most significantly, **drop-off rates were at their highest in Session 1*
 
 ### **Recommendations**
 
-1. **Prioritize improving the first shopping experience (leading up to Add to Cart)** for new users in their first session
+1. **Prioritize improving the first shopping experience (leading up to Add to Cart)** for new users
 
 2. **Investigate website navigation and product discoverability**
 
